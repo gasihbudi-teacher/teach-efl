@@ -1,0 +1,10 @@
+{
+  "name": "English Bimbel Teaching Companion",
+  "short_name": "English Bimbel",
+  "description": "A phone-first English teaching companion for Indonesian tutors.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffaf1",
+  "theme_color": "#1d8c68",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

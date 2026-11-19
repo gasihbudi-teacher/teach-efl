@@ -1,0 +1,7 @@
+name = "english-bimbel-teaching-companion"
+compatibility_date = "2026-11-18"
+pages_build_output_dir = "./dist"
+
+# Configure these as Cloudflare Pages environment variables/secrets.
+# CF_ACCESS_TEAM_DOMAIN, CF_ACCESS_AUD, ADMIN_EMAILS, GITHUB_TOKEN,
+# GITHUB_OWNER, GITHUB_REPO, and optionally GITHUB_BRANCH.

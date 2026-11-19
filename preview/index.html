@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#fffaf1"><meta name="description" content="A phone-first English teaching companion for Indonesian tutors.">
+  <link rel="manifest" href="./manifest.webmanifest"><link rel="icon" href="./icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <title>English Bimbel — Teaching Companion</title>
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <a class="brand" href="#/"><span class="brand-mark">EB</span><span><b>English Bimbel</b><small>TEACHING COMPANION</small></span></a>
+      <nav class="desktop-nav"><a href="#/" data-nav="home">Home</a><a href="#/topics" data-nav="topics">Topics</a><a href="#/favorites" data-nav="favorites">Favorites</a><a href="#/admin" data-nav="admin">Admin</a></nav>
+      <div class="connection is-online" id="connection"><span></span><b>Online</b></div>
+    </header>
+    <main class="main-content" id="app-main"><div class="empty-state"><b>Loading teaching library…</b></div></main>
+    <footer class="footer"><span>Made for teaching, not busywork.</span><span>English Bimbel · Preview v0.1</span></footer>
+    <nav class="mobile-nav"><a href="#/" data-nav="home"><span>⌂</span>Home</a><a href="#/topics" data-nav="topics"><span>▦</span>Topics</a><a href="#/favorites" data-nav="favorites"><span>♡</span>Saved</a><a href="#/admin" data-nav="admin"><span>⚙</span>Admin</a></nav>
+  </div>
+  <script src="./app.js" defer></script>
+</body>
+</html>
