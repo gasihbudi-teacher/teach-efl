@@ -17,7 +17,7 @@ tags:
   - verb-forms
   - event-sequence
 status: published
-updated: 2026-11-18
+updated: 2026-11-19
 prerequisites: []
 related_topics:
   - simple-present-tense
@@ -26,6 +26,8 @@ related_topics:
 # Simple Past vs Past Perfect
 
 ## At a glance
+
+Start aloud: *The bus left at seven. Ina arrived at five past seven.* Draw two dots on the board. Ask *“Ina masih bisa naik bus itu?”* Let a learner point to the first event and answer in Indonesian or English. Then say *“When Ina arrived, the bus had left.”* Invite the learner to try again with *train*.
 
 **Core idea:** Simple Past tells us about a completed event in the past. Past Perfect tells us that an event happened before a later point or event in the past.
 
@@ -66,14 +68,87 @@ Do not block the lesson if students do not know every irregular verb. Teach the 
 
 | Stage | Student action | Support |
 |---|---|---|
-| 1. See the timeline | Identify which event happened first and which happened later. | Indonesian situation, timeline, numbered events. |
-| 2. Build the forms | Compare positive, negative, and question forms. | Formula cards, V2/V3 bank, worked examples. |
-| 3. Choose and correct | Select the tense from context and repair common errors. | Context clues first, then fewer prompts. |
-| 4. Tell the story | Combine both tenses in a short, coherent account. | Event cards and sentence frames, then independent writing/speaking. |
+| 1. Try the two models | Describe a finished event, then look back from a later moment. | Ten choices per pattern; select prompts to suit the group. |
+| 2. See the timeline | Identify which event happened first and which happened later. | Indonesian situation, timeline, numbered events. |
+| 3. Build the forms | Compare positive, negative, and question forms. | Formula cards, V2/V3 bank, worked examples. |
+| 4. Choose and correct | Select the tense from context and repair common errors. | Context clues first, then fewer prompts. |
+| 5. Tell the story | Combine both tenses in a short, coherent account. | Event cards and sentence frames, then independent writing/speaking. |
 
 ## Teaching stages
 
-### Stage 1 — Understand the sequence of past events
+### Simple Past — tell what happened
+
+**Model** — *Yesterday, Ina bought bread at the market.* Tutup kata *bread*. Pilih *milk* atau *fruit*, lalu ucapkan kalimat lengkap. Waktunya sudah lewat. Untuk kata kerja tindakan dalam kalimat positif, gunakan bentuk lampau, misalnya *buy → bought*.
+
+Select a few starters to say aloud. Items 1–5 supply the past verb. Students who are ready can choose and change a verb in items 6–10.
+
+1. Yesterday, Ina bought ___.
+2. Last night, Deni ate ___.
+3. On Sunday, the cousins played ___.
+4. Yesterday afternoon, we walked to ___.
+5. Last Friday, the friends shared ___ at the park.
+6. Yesterday, the bus ___ near the market.
+7. Last night, Rani ___ a message to her cousin.
+8. On Saturday, the neighbours ___ to make the park more welcoming.
+9. Tell what the friends did when the rain stopped. Start with “They …” and add a reason.
+10. A visitor spent one afternoon in town. Tell two events in the order they happened.
+
+<details>
+<summary>Vocabulary choices for 1–10</summary>
+
+1. bread / fruit
+2. noodles / rice
+3. chess / cards
+4. the park / the shop
+5. snacks / funny stories
+6. stop / break down
+7. send / write
+8. plant flowers / clean the benches
+9. go outside / open the windows / fresh air
+10. visit a market / buy a snack / walk home / then
+
+</details>
+
+**Quick-fire.** *Yesterday, Ina bought **bread** at the market.* Change the item. Next, replace **at the market** with a place phrase. Cover the model and tell a different finished event from Ina's day. One possibility is *She took the bus home.* If a learner stalls, offer *buy → bought* and *take → took* and let them choose.
+
+### Past Perfect — look back from a past moment
+
+**Model** — *When Ina reached the stall, the seller had packed the fruit.* Draw two boxes: **packed** first, **reached** second. Bayangkan Ina baru tiba. Buahnya sudah dikemas. Gunakan *had + V3* untuk kejadian yang lebih dulu. Ask: “Did Ina see the seller packing it?” In this model the packing was already complete when she arrived.
+
+Complete the first five by choosing a detail. For the others, make the earlier action fit the later situation. Keep one past moment clearly in view.
+
+1. When Ina arrived, the seller had packed the ___.
+2. When the film began, we had found our ___.
+3. By the time Dad called, Rani had eaten ___.
+4. When the rain started, Deni had put his ___ in his bag.
+5. By the time the guests arrived, we had washed the ___.
+6. When the bus arrived, Ina had already ___ her ticket.
+7. By the time the shop opened, the seller had ___ the prices on the board.
+8. The table was ready when the guests arrived because the neighbours had ___.
+9. The friends couldn't buy tickets at the door. Use “By the time they arrived, …” to explain what had happened.
+10. Imagine the end of a picnic. Describe what a late visitor saw and give an earlier action that explains it.
+
+<details>
+<summary>Vocabulary choices for 1–10</summary>
+
+1. apples / oranges
+2. seats / tickets
+3. rice / a sandwich
+4. phone / notebook
+5. cups / plates
+6. buy → bought / find → found
+7. write → written / change → changed
+8. set out the plates / put cups beside each plate
+9. all the tickets / sell → sold / ticket office / close → closed
+10. empty baskets / clean benches / eat → eaten / tidy → tidied
+
+</details>
+
+**Possible completions.** *By the time they arrived, the ticket office had closed.* Or, *By the time they arrived, the staff had sold all the tickets.* Either explains what the friends found. Ask which action happened first.
+
+**Quick-fire.** *When Ina arrived, the seller had packed the **apples**.* Swap one word. Replace **packed the apples** with *weighed the oranges*. Hide the earlier clause and ask what else might already have happened at the stall. Accept a new idea if *had + V3* and the timeline both work. If students struggle, offer *packed* or *weighed* and point to the earlier box.
+
+### Understand the sequence of past events
 
 #### Teacher explanation
 
@@ -159,7 +234,7 @@ Students are ready to move on when they can identify the two events and explain 
 
 Return to two short statements: *The class started at 8:00. I arrived at 8:10.* Ask students to number them 1 and 2. Then model: *When I arrived, the class had started.* Keep the focus on the timeline before naming the tense.
 
-### Stage 2 — Build and compare the two forms
+### Extend the forms — negatives and questions
 
 #### Teacher explanation
 
@@ -214,8 +289,8 @@ For regular verbs, V2 and V3 usually have the same `-ed` form. Irregular verbs n
 Use the verb in brackets. Choose the tense that matches the meaning.
 
 1. They ______ (leave) before we arrived.
-2. I ______ (not / finish) my work when the teacher asked for it.
-3. ______ you ______ (see) the film before last night?
+2. My work was still unfinished. By the time the teacher asked for it, I ______ (not / finish) it.
+3. Ask about an earlier viewing using *had*: ______ you ______ (see) the film before last night?
 4. She ______ (call) me yesterday afternoon.
 5. We ______ (eat) dinner at 7 p.m. yesterday.
 6. By the time I reached the bus stop, the bus ______ (go).
@@ -223,7 +298,7 @@ Use the verb in brackets. Choose the tense that matches the meaning.
 <details>
 <summary>Show answers and explanations</summary>
 
-1. **had left** — the departure happened before our arrival; `had + V3`.
+1. **had left** highlights the completed departure. **Left** also works because *before* gives the order.
 2. **hadn't finished** — the work was not complete at the past reference point; `hadn't + V3`.
 3. **Had / seen** — Past Perfect question: `Had + subject + V3?`.
 4. **called** — a completed event at a stated past time; Simple Past.
@@ -248,7 +323,7 @@ Students can form a positive, negative, and question in each tense and can expla
 
 Use a two-column board: `DID + V1` and `HAD + V3`. Give a verb pair such as `see / seen`; ask students to place it in the correct pattern before completing a full sentence. Practise one form at a time.
 
-### Stage 3 — Choose the tense and correct common errors
+### Choose the tense and correct common errors
 
 #### Teacher explanation
 
@@ -268,7 +343,7 @@ The second sentence changes the timeline, not merely the level of formality.
 
 #### Student task A — Choose the best form
 
-1. When we got to the cinema, the film (started / had started).
+1. We missed the opening scene. When we got to the cinema, the film (started / had started).
 2. I (lost / had lost) my key yesterday morning.
 3. Before the guests arrived, Maya (prepared / had prepared) the food.
 4. They (visited / had visited) Bandung last weekend.
@@ -278,7 +353,7 @@ The second sentence changes the timeline, not merely the level of formality.
 <details>
 <summary>Show answers and explanations</summary>
 
-1. **had started** — the film started before we got there.
+1. **had started** — missing the opening scene tells us the film was already playing.
 2. **lost** — *yesterday morning* is a finished past time; no later past reference point is supplied.
 3. **had prepared** — the preparation was complete before the guests arrived. *Prepared* is also possible in some contexts because *before* already makes the sequence clear; Past Perfect emphasizes completion before arrival.
 4. **visited** — *last weekend* is a finished past time.
@@ -312,7 +387,7 @@ Students choose the tense by explaining the timeline and can correct at least th
 
 Remove the verb choices and return to a timeline. Ask: “What is the later past point? What had already happened before it?” Then let students choose the tense. Do not teach signal words as rigid rules.
 
-### Stage 4 — Tell a past story independently
+### Tell a past story independently
 
 #### Teacher explanation
 
@@ -345,11 +420,11 @@ Students choose one of these fictional situations:
 - You reached the bus stop at 7:20.
 - You checked the schedule the night before.
 
-**B. A group presentation**
-- The teacher entered the room at 9:00.
-- The group had prepared the slides before class.
-- One student explained the first slide.
-- The group answered two questions.
+**B. A music evening**
+- The doors opened at 6:00.
+- The musicians checked the speakers at 5:30.
+- The first singer greeted the audience at 6:10.
+- The group played two songs.
 
 Write or say 4–6 sentences. Include at least two Simple Past verbs and one Past Perfect verb. Students may use these frames if needed:
 
@@ -363,7 +438,7 @@ Write or say 4–6 sentences. Include at least two Simple Past verbs and one Pas
 
 **A. A missed bus:** *I had checked the bus schedule the night before. The bus left at 7:10. I left home at 7:15 and reached the bus stop at 7:20. When I arrived, I realized that I had missed it: it had left before I got there.*
 
-**B. A group presentation:** *Our group had prepared the slides before class. The teacher entered the room at 9:00. One student explained the first slide, and then we answered two questions.*
+**B. A music evening:** *The doors opened at six. The musicians had already checked the speakers. Ten minutes later, the first singer greeted the audience. Then the group played two songs.*
 
 These are examples, not the only acceptable responses. Check whether the timeline is logical and the verb forms match the intended meaning.
 </details>
