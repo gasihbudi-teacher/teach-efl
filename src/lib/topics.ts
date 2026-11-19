@@ -1,6 +1,10 @@
+import { Buffer } from 'buffer/';
 import matter from 'gray-matter';
 import { marked } from 'marked';
 import DOMPurify from 'dompurify';
+
+// gray-matter uses Buffer.from even when the input is a Markdown string.
+Object.assign(globalThis, { Buffer });
 
 export type TopicMeta = {
   schema_version: number;

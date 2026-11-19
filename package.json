@@ -10,12 +10,13 @@
     "content:build": "python3 scripts/build_content.py"
   },
   "dependencies": {
+    "buffer": "^6.0.3",
     "dompurify": "^3.2.6",
     "gray-matter": "^4.0.3",
+    "jose": "^6.0.11",
     "marked": "^15.0.7",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "jose": "^6.0.11"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@types/dompurify": "^3.0.5",
